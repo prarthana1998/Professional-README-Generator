@@ -12,11 +12,13 @@ When initiating an open-source project on GitHub, crafting a well-crafted README
 * [Questions](#questions)
 
 ## Installation
-1) To install the necessary dependencies, run the following command:
+To install the necessary dependencies, run the following command:
 npm install node
 npm install inquirer^8.0.0: The inquirer will prompt you for your inputs from the command line.
 
 ## Usage 
+
+![](assets/readme.png)
 
 The application will start by running node index.js in the command line. Answer the prompts in your command line to generate the README. After answering all the prompts, your README file will be named 'example_README.md' and will be ready for you at the root of the repo. Because this is a command-line application won’t be deployed, here is a [Link](https://drive.google.com/file/d/1mbUbW-_eAyZRINYc3n7KM0R9zWNq2Lch/view) to a video walkthrough that demonstrates the functionality of my application.
 
