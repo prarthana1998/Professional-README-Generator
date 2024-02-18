@@ -1,26 +1,30 @@
-t
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+Readme generator
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-t
+It is used to generate readme file
 
-## Deployed Application Link
-t
-
-## Screenshots
-![alt-text](t)
+## Table of Contents 
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#test)
+* [Questions](#questions)
 
 ## Installation
-t
+npm install node 
 
 ## Usage
-t
+fork the repo and code
 
 ## Contributing
-t
+
 
 ## Test
-g
+
 
 ## License
-GNU AGPLv3
+MIT
 
+## Questions 
+Please send your questions to [here](mailto:prarthanakandwal12@gmail.com) or  visit (https://github.com/prarthana1998)
